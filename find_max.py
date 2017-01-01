@@ -1,4 +1,4 @@
-__author__ = 'Murtaza'
+__author__ = 'Ummehani'
 
 def find_max(l):
     max=l[0]
